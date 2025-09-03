@@ -148,22 +148,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.16;entryY=0;rounded=0;" parent="1" target="q8t8FOueB4Cw9T-AZ4NH-43" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="769" y="766" />
-            </Array>
-            <mxPoint x="769" y="733" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.84;entryY=0;rounded=0;" parent="1" target="q8t8FOueB4Cw9T-AZ4NH-43" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1008" y="766" />
-            </Array>
-            <mxPoint x="1008.0000000000002" y="733" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.21;entryY=0;rounded=0;" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-40" target="q8t8FOueB4Cw9T-AZ4NH-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
