@@ -29,7 +29,7 @@
           <mxGeometry x="1448" y="294" width="110" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-14" value="MNDWI &gt; 0 初步提取灌溉区域" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1406" y="393" width="194" height="194" as="geometry" />
+          <mxGeometry x="1406" y="393" width="194" height="117" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-15" value="选取深度学习训练样本" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1393" y="637" width="220" height="49" as="geometry" />
