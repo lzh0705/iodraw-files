@@ -390,6 +390,9 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-11" value="LST (DEM地形校正)" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;" parent="q7U4kgEC2zEvp_Ldrqo7-20" vertex="1">
           <mxGeometry y="63.809590973201686" width="300" height="64.98784901605212" as="geometry" />
         </mxCell>
+        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-23" value="逐年灌溉面积提取" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1269" y="-841" width="300" height="63" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
