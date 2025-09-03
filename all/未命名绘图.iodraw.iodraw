@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-16" value="计算样本数量 (研究区像素 -&gt; 8:2划分)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="792.5" y="-630" width="247" height="66" as="geometry" />
+          <mxGeometry x="1199.5" y="-494.5" width="247" height="66" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-17" value="LST-NDVI法" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1201" y="-888" width="139" height="49" as="geometry" />
@@ -50,10 +50,10 @@
           <mxGeometry x="1195" y="-716" width="151" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-19" value="逐年灌溉面积提取" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1176" y="-545" width="188" height="49" as="geometry" />
+          <mxGeometry x="1450" y="-860" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-20" value="精度评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1208" y="-437" width="124" height="49" as="geometry" />
+          <mxGeometry x="1585" y="-700" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-21" value="DEM" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="254.5" y="1370" width="90" height="49" as="geometry" />
@@ -178,7 +178,9 @@
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=15;" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-19" target="q8t8FOueB4Cw9T-AZ4NH-20" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="1390" y="-550" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-21" target="q8t8FOueB4Cw9T-AZ4NH-22" edge="1">
