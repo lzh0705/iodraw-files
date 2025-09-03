@@ -391,12 +391,12 @@
           <mxGeometry width="300" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-26" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1245" y="-943" width="300" height="126" as="geometry" />
+          <mxGeometry x="1210" y="-943" width="300" height="126" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-18" value="XGBoost模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="q7U4kgEC2zEvp_Ldrqo7-26" vertex="1">
           <mxGeometry y="63" width="300" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-25" value="XGBoost模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" vertex="1" parent="q7U4kgEC2zEvp_Ldrqo7-26">
+        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-25" value="梯度提升决策树" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" vertex="1" parent="q7U4kgEC2zEvp_Ldrqo7-26">
           <mxGeometry width="300" height="63" as="geometry" />
         </mxCell>
       </root>
