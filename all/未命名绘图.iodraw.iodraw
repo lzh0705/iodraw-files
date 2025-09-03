@@ -141,13 +141,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.28;entryY=0;rounded=0;fontSize=30;fontStyle=1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-32" target="q8t8FOueB4Cw9T-AZ4NH-34" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1371" y="27" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.72;entryY=0;rounded=0;fontSize=30;fontStyle=1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-33" target="q8t8FOueB4Cw9T-AZ4NH-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -435,7 +428,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-17" value="根区土壤含水量反演" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fillColor=#8f8f8f;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1328.5" y="-230" width="564" height="60" as="geometry" />
+          <mxGeometry x="1319" y="-230" width="564" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
