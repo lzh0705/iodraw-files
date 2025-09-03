@@ -108,7 +108,7 @@
           <mxGeometry x="938" y="1589.98" width="400" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-52" value="分析两国制度转变" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1481.12" y="1660.99" width="250" height="63" as="geometry" />
+          <mxGeometry x="1472.5" y="1668.99" width="250" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;fontSize=30;fontStyle=1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-27" target="q8t8FOueB4Cw9T-AZ4NH-28" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -425,7 +425,7 @@
           <mxGeometry x="297.4983269961977" y="-10.0018871081528" width="455.5988593155893" height="383.113328081922" as="geometry" />
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-51" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=30;" vertex="1" parent="lqGZKCdhJQUJocc40LHr-66">
-          <mxGeometry width="455.5988593155893" height="383.113328081922" as="geometry" />
+          <mxGeometry x="-140" y="10" width="455.5988593155893" height="383.113328081922" as="geometry" />
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-65" value="" style="group" vertex="1" connectable="0" parent="lqGZKCdhJQUJocc40LHr-66">
           <mxGeometry x="81.12167300380229" y="139.98856130352272" width="295.91999999999996" height="220.0033258046301" as="geometry" />
