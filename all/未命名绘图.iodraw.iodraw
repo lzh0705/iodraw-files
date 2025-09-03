@@ -35,7 +35,7 @@
           <mxGeometry x="1306" y="-699" width="151" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-19" value="逐年灌溉面积提取" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1296" y="-907.5" width="300" height="63" as="geometry" />
+          <mxGeometry x="1269" y="-841" width="300" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-20" value="精度评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1693" y="-650" width="124" height="49" as="geometry" />
