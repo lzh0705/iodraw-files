@@ -32,7 +32,7 @@
           <mxGeometry x="634.5" y="-914.87" width="139" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-18" value="XGBoost模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="873" y="-914.5" width="151" height="49" as="geometry" />
+          <mxGeometry x="1306" y="-699" width="151" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-19" value="逐年灌溉面积提取" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1638" y="-960" width="188" height="49" as="geometry" />
