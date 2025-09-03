@@ -96,7 +96,7 @@
           <mxGeometry x="880" y="773.5" width="250" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-44" value="计算根区土壤含水量差值" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1301" y="791" width="236" height="49" as="geometry" />
+          <mxGeometry x="1306" y="780.5" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-45" value="计算灌溉用水量数据" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1050" y="890" width="204" height="49" as="geometry" />
