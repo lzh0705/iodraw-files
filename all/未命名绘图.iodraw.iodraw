@@ -7,9 +7,6 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-5" value="4. 中越灌溉用水量变化时空动态变化趋势研究" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="680" y="1670" width="1062" height="314" as="geometry" />
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-6" value="3. 灌溉用水量计算" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="648" y="650" width="1072" height="314" as="geometry" />
-        </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-14" target="q8t8FOueB4Cw9T-AZ4NH-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -445,6 +442,30 @@
             <mxPoint x="1159" y="520" as="sourcePoint" />
             <mxPoint x="2081" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lqGZKCdhJQUJocc40LHr-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="-670" width="417.5" height="256.9" as="geometry" />
+        </mxCell>
+        <mxCell id="lqGZKCdhJQUJocc40LHr-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=30;" vertex="1" parent="lqGZKCdhJQUJocc40LHr-27">
+          <mxGeometry width="417.5" height="256.9" as="geometry" />
+        </mxCell>
+        <mxCell id="lqGZKCdhJQUJocc40LHr-29" value="" style="group;fontSize=30;" vertex="1" connectable="0" parent="lqGZKCdhJQUJocc40LHr-27">
+          <mxGeometry x="55" y="96.17999999999995" width="360" height="146.9000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="lqGZKCdhJQUJocc40LHr-30" value="" style="group" vertex="1" connectable="0" parent="lqGZKCdhJQUJocc40LHr-29">
+          <mxGeometry width="300" height="128.7974399892538" as="geometry" />
+        </mxCell>
+        <mxCell id="lqGZKCdhJQUJocc40LHr-31" value="MNDWI" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" vertex="1" parent="lqGZKCdhJQUJocc40LHr-30">
+          <mxGeometry width="300" height="63.809590973201686" as="geometry" />
+        </mxCell>
+        <mxCell id="lqGZKCdhJQUJocc40LHr-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=30;" edge="1" parent="lqGZKCdhJQUJocc40LHr-30" source="lqGZKCdhJQUJocc40LHr-31" target="lqGZKCdhJQUJocc40LHr-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="143.25" y="64.46070924843845" as="sourcePoint" />
+            <mxPoint x="578.25" y="350.9527503526093" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lqGZKCdhJQUJocc40LHr-33" value="NDVI" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;" vertex="1" parent="lqGZKCdhJQUJocc40LHr-30">
+          <mxGeometry y="63.809590973201686" width="300" height="64.98784901605212" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
