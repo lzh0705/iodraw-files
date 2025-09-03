@@ -99,7 +99,7 @@
           <mxGeometry x="1432" y="675" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-43" value="计算蒸散发差值" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="878" y="780.5" width="172" height="63" as="geometry" />
+          <mxGeometry x="878" y="780.5" width="250" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-44" value="计算根区土壤含水量差值" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1301" y="791" width="236" height="49" as="geometry" />
