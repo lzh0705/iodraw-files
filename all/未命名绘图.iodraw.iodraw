@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-12" value="NDVI" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="272" y="-750" width="94" height="49" as="geometry" />
+          <mxGeometry x="269.5" y="-929.5" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-13" value="MNDWI" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="254.5" y="-486" width="110" height="49" as="geometry" />
