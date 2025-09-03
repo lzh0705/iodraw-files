@@ -26,7 +26,7 @@
           <mxGeometry x="750" y="-605.5" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-15" value="选取深度学习训练样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1042" y="-567" width="260" height="63" as="geometry" />
+          <mxGeometry x="1033" y="-568.5" width="260" height="63" as="geometry" />
         </mxCell>
         <mxCell id="tQ6DSqZaiMBhaWcZ46tv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-16">
           <mxGeometry relative="1" as="geometry">
