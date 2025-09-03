@@ -19,8 +19,14 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-9" value="2a. 实际蒸散发计算 (SSEBop)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="100" y="145" width="743" height="780" as="geometry" />
         </mxCell>
+        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-11" target="q8t8FOueB4Cw9T-AZ4NH-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-11" value="LST (DEM地形校正)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1652" y="294" width="195" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-12" target="q8t8FOueB4Cw9T-AZ4NH-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-12" value="NDVI" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1919" y="294" width="94" height="49" as="geometry" />
@@ -387,12 +393,6 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-94" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-51" target="q8t8FOueB4Cw9T-AZ4NH-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-95" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-12" target="q8t8FOueB4Cw9T-AZ4NH-17" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1854" y="380" as="sourcePoint" />
-            <mxPoint x="1932" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
