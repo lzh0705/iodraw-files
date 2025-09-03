@@ -51,7 +51,7 @@
           <mxGeometry x="195" y="438" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-24" value="计算Rn" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="264" y="-112" width="110" height="49" as="geometry" />
+          <mxGeometry x="264" y="-112" width="110" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-25" value="计算冷热像元温度差dT" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="293" y="-13" width="222" height="49" as="geometry" />
