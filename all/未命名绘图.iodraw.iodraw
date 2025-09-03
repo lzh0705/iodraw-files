@@ -19,15 +19,6 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-9" value="2a. 实际蒸散发计算 (SSEBop)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="145" width="743" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-11" target="q8t8FOueB4Cw9T-AZ4NH-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1580" y="343" />
-              <mxPoint x="1580" y="367" />
-              <mxPoint x="1685" y="367" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-11" value="LST (DEM地形校正)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1448" y="294" width="195" height="49" as="geometry" />
         </mxCell>
