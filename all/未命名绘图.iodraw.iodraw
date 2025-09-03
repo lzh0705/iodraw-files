@@ -95,11 +95,11 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-43" value="计算蒸散发差值" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="841" y="780.5" width="250" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-44" value="计算根区土壤含水量差值" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
+        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-44" value="计算根区土壤含水量差值" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1180" y="780.5" width="250" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-45" value="计算灌溉用水量数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1037" y="930" width="250" height="63" as="geometry" />
+          <mxGeometry x="1037" y="930" width="300" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-46" value="灌溉用水量数据" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="715" y="1695" width="172" height="49" as="geometry" />
