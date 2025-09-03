@@ -66,7 +66,7 @@
           <mxGeometry x="740" y="251" width="250" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-31" value="实际蒸散发数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="600" y="380" width="250" height="63" as="geometry" />
+          <mxGeometry x="607.5" y="368" width="250" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-32" value="实际蒸散发数据" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="1832" y="-161" width="142" height="49" as="geometry" />
