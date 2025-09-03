@@ -105,10 +105,10 @@
           <mxGeometry x="979" y="1050" width="300" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-51" value="分析灌溉用水量时空动态演变" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="758" y="1480" width="252" height="66" as="geometry" />
+          <mxGeometry x="697.5" y="1491" width="400" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-52" value="分析两国制度转变" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1042.5" y="1505" width="188" height="49" as="geometry" />
+          <mxGeometry x="979" y="1664.7" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;fontSize=30;fontStyle=1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-27" target="q8t8FOueB4Cw9T-AZ4NH-28" edge="1">
           <mxGeometry relative="1" as="geometry">
