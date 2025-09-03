@@ -419,11 +419,6 @@
         <mxCell id="lqGZKCdhJQUJocc40LHr-4" value="净辐射Rn" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="251.5" y="-120.5" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lqGZKCdhJQUJocc40LHr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="lqGZKCdhJQUJocc40LHr-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="311" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-5" value="DEM" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="243.5" y="359.5" width="135" height="80" as="geometry" />
         </mxCell>
