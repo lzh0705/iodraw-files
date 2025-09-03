@@ -390,7 +390,7 @@
           <mxGeometry width="300" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-29" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="370" y="-700" width="417.5" height="256.9" as="geometry" />
+          <mxGeometry x="190" y="-680" width="417.5" height="256.9" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=30;" vertex="1" parent="q7U4kgEC2zEvp_Ldrqo7-29">
           <mxGeometry width="417.5" height="256.9" as="geometry" />
@@ -401,7 +401,7 @@
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-32" value="" style="group" vertex="1" connectable="0" parent="q7U4kgEC2zEvp_Ldrqo7-31">
           <mxGeometry width="300" height="128.7974399892538" as="geometry" />
         </mxCell>
-        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-33" value="NDVI" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" vertex="1" parent="q7U4kgEC2zEvp_Ldrqo7-32">
+        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-33" value="MNDWI" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" vertex="1" parent="q7U4kgEC2zEvp_Ldrqo7-32">
           <mxGeometry width="300" height="63.809590973201686" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=30;" edge="1" parent="q7U4kgEC2zEvp_Ldrqo7-32" source="q7U4kgEC2zEvp_Ldrqo7-33" target="q7U4kgEC2zEvp_Ldrqo7-35">
