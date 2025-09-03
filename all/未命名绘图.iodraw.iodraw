@@ -509,8 +509,8 @@
         <mxCell id="lqGZKCdhJQUJocc40LHr-61" value="产业结构变化" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;" vertex="1" parent="lqGZKCdhJQUJocc40LHr-58">
           <mxGeometry y="53.14463392742659" width="300" height="54.12596120760976" as="geometry" />
         </mxCell>
-        <mxCell id="lqGZKCdhJQUJocc40LHr-51" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1340.003116883117" width="417.5" height="383.1168831168831" as="geometry" />
+        <mxCell id="lqGZKCdhJQUJocc40LHr-51" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=30;" vertex="1" parent="lqGZKCdhJQUJocc40LHr-53">
+          <mxGeometry x="42.5" y="-179.99355731225296" width="417.5" height="383.1168831168831" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
