@@ -17,7 +17,7 @@
           <mxGeometry x="186.5" y="780" width="743" height="780" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-13" value="MNDWI" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="254.5" y="-486" width="110" height="49" as="geometry" />
+          <mxGeometry x="150" y="-280" width="110" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-14" value="MNDWI &gt; 0 初步提取灌溉区域" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="970" y="-550" width="260" height="140" as="geometry" />
@@ -390,7 +390,7 @@
           <mxGeometry width="300" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-29" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="190" y="-1010" width="417.5" height="256.9" as="geometry" />
+          <mxGeometry x="370" y="-700" width="417.5" height="256.9" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=30;" vertex="1" parent="q7U4kgEC2zEvp_Ldrqo7-29">
           <mxGeometry width="417.5" height="256.9" as="geometry" />
