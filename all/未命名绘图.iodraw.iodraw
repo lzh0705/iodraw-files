@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="WDHhsA6tqdg396hcrXkd">
-    <mxGraphModel dx="2213" dy="2792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1058" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -401,8 +401,8 @@
             <mxPoint x="607" y="-660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-11" value="LST (DEM地形校正)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="221.5" y="-880.5" width="195" height="49" as="geometry" />
+        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-11" value="LST (DEM地形校正)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="221.5" y="-880.5" width="200" height="50.26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
