@@ -35,7 +35,7 @@
           <mxGeometry x="1199.5" y="-494.5" width="247" height="66" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-17" value="LST-NDVI法" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="537" y="-914.87" width="139" height="49" as="geometry" />
+          <mxGeometry x="596.5" y="-914.87" width="139" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-18" value="XGBoost模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="887.5" y="-660" width="151" height="49" as="geometry" />
@@ -400,6 +400,9 @@
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-11" value="LST (DEM地形校正)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1;aspect=fixed;" parent="q7U4kgEC2zEvp_Ldrqo7-17" vertex="1">
           <mxGeometry y="49" width="200" height="50.26" as="geometry" />
+        </mxCell>
+        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="487" y="-925" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
