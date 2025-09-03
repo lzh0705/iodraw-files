@@ -40,7 +40,7 @@
           <mxGeometry x="760" y="-904" width="300" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-20" value="精度评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1810" y="-650" width="124" height="49" as="geometry" />
+          <mxGeometry x="1810" y="-650" width="124" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-21" value="DEM" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="254.5" y="1370" width="90" height="49" as="geometry" />
