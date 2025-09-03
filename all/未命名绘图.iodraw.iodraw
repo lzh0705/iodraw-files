@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="WDHhsA6tqdg396hcrXkd">
-    <mxGraphModel dx="1998" dy="2642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4495" dy="4484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,11 @@
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-15" value="选取深度学习训练样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="867" y="-496" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1490" y="-444.2222222222222" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-16" value="计算样本数量 (研究区像素 -&gt; 8:2划分)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1199.5" y="-494.5" width="247" height="66" as="geometry" />
@@ -390,7 +395,7 @@
           <mxGeometry y="63.809590973201686" width="300" height="64.98784901605212" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-24" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1540" y="-727" width="300" height="126" as="geometry" />
+          <mxGeometry x="1550" y="-711" width="300" height="126" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-23" value="逐年灌溉面积提取" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;labelBorderColor=none;" vertex="1" parent="q7U4kgEC2zEvp_Ldrqo7-24">
           <mxGeometry width="300" height="63" as="geometry" />
