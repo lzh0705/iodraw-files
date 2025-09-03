@@ -38,13 +38,13 @@
           <mxGeometry x="1406.5" y="370" width="194" height="117" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-15" value="选取深度学习训练样本" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1393.5" y="560" width="220" height="49" as="geometry" />
+          <mxGeometry x="1393" y="530" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-16" target="q8t8FOueB4Cw9T-AZ4NH-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-16" value="计算样本数量 (研究区像素 -&gt; 8:2划分)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="720" width="247" height="66" as="geometry" />
+          <mxGeometry x="1379.5" y="640" width="247" height="66" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-17" value="LST-NDVI法" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1788" y="392" width="139" height="49" as="geometry" />
