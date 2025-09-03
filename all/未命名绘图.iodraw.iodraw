@@ -134,11 +134,6 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-52" value="分析两国制度转变" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1024" y="2207" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-24" target="q8t8FOueB4Cw9T-AZ4NH-25" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;fontSize=30;" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-27" target="q8t8FOueB4Cw9T-AZ4NH-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -423,6 +418,9 @@
             <mxPoint x="560" y="50" as="sourcePoint" />
             <mxPoint x="610" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lqGZKCdhJQUJocc40LHr-4" value="NDVI数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="515" y="-110.5" width="135" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
