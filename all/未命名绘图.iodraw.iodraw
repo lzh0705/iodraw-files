@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-17" value="LST-NDVI法" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="834.5" y="-907.5" width="300" height="63" as="geometry" />
+          <mxGeometry x="760" y="-904" width="300" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-20" value="精度评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1810" y="-650" width="124" height="49" as="geometry" />
@@ -354,7 +354,7 @@
           <mxGeometry x="834.5" y="-1090" width="564" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="677.5" y="-911" width="100" height="70" as="geometry" />
+          <mxGeometry x="634.5" y="-907.5" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-21" value="" style="group;labelBorderColor=#FFFFFF;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="190" y="-1010" width="417.5" height="256.9" as="geometry" />
