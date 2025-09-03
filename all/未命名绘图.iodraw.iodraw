@@ -28,6 +28,11 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-16" value="计算样本数量 (研究区像素 -&gt; 8:2划分)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1199.5" y="-494.5" width="247" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="-876" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-17" value="LST-NDVI法" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="834.5" y="-907.5" width="300" height="63" as="geometry" />
         </mxCell>
