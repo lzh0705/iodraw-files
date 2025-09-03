@@ -84,7 +84,7 @@
           <mxGeometry x="1596" y="174.5" width="250" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-37" value="选取最稳健的线性关系" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1591" y="267" width="220" height="49" as="geometry" />
+          <mxGeometry x="1591" y="267" width="220" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-38" value="进行根区土壤水分数据反演 (降采样)" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1575" y="365" width="252" height="66" as="geometry" />
