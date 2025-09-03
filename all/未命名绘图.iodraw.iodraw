@@ -20,7 +20,7 @@
           <mxGeometry x="100" y="145" width="743" height="780" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-10" value="1. 灌溉面积提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="230" width="541" height="682" as="geometry" />
+          <mxGeometry x="1273" y="269" width="541" height="682" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-11" value="LST (DEM地形校正)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1341" y="294" width="195" height="49" as="geometry" />
@@ -205,13 +205,6 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-24" target="q8t8FOueB4Cw9T-AZ4NH-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=1;entryY=0.45;rounded=0;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-12" target="q8t8FOueB4Cw9T-AZ4NH-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1479" y="367" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.33;entryY=0;rounded=0;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-25" target="q8t8FOueB4Cw9T-AZ4NH-27">
