@@ -19,9 +19,6 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-9" value="2a. 实际蒸散发计算 (SSEBop)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="145" width="743" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-10" value="1. 灌溉面积提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1273" y="269" width="541" height="682" as="geometry" />
-        </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-11" value="LST (DEM地形校正)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1341" y="294" width="195" height="49" as="geometry" />
         </mxCell>
