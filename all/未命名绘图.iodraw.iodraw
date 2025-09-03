@@ -10,9 +10,6 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-6" value="3. 灌溉用水量计算" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="198" y="1604" width="1072" height="314" as="geometry" />
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-8" value="2b. 根区土壤水分反演" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1378" y="-220.5" width="690" height="529" as="geometry" />
-        </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-14" target="q8t8FOueB4Cw9T-AZ4NH-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
