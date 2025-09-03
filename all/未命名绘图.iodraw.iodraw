@@ -81,7 +81,7 @@
           <mxGeometry x="1779" y="48.5" width="300" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-36" value="建立线性关系" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1623" y="168" width="156" height="63" as="geometry" />
+          <mxGeometry x="1596" y="174.5" width="250" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-37" value="选取最稳健的线性关系" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1591" y="267" width="220" height="49" as="geometry" />
