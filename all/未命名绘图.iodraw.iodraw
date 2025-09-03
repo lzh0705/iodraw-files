@@ -474,10 +474,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-50" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="260" y="1420" width="705" height="500" as="geometry" />
+          <mxGeometry x="70" y="1320" width="705" height="500" as="geometry" />
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-52" value="" style="group;fontSize=30;" vertex="1" connectable="0" parent="lqGZKCdhJQUJocc40LHr-50">
-          <mxGeometry x="47.5" y="141.5866741953698" width="657.5" height="358.4133258046302" as="geometry" />
+          <mxGeometry x="12.5" y="104.99667419536979" width="657.5" height="358.4133258046302" as="geometry" />
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-53" value="" style="group" vertex="1" connectable="0" parent="lqGZKCdhJQUJocc40LHr-52">
           <mxGeometry width="657.5" height="358.4133258046302" as="geometry" />
