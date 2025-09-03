@@ -29,7 +29,7 @@
           <mxGeometry x="1199.5" y="-494.5" width="247" height="66" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-17" value="LST-NDVI法" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="634.5" y="-914.87" width="139" height="49" as="geometry" />
+          <mxGeometry x="885" y="-900.5" width="139" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-18" value="XGBoost模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1306" y="-699" width="151" height="49" as="geometry" />
@@ -364,7 +364,7 @@
           <mxGeometry x="834.5" y="-1090" width="564" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="508" y="-760" width="100" height="70" as="geometry" />
+          <mxGeometry x="677.5" y="-911" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-21" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="190" y="-1010" width="417.5" height="256.9" as="geometry" />
