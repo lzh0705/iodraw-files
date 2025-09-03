@@ -20,7 +20,7 @@
           <mxGeometry x="100" y="145" width="743" height="780" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-11" value="LST (DEM地形校正)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1341" y="294" width="195" height="49" as="geometry" />
+          <mxGeometry x="1448" y="294" width="195" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-12" value="NDVI" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1890" y="294" width="94" height="49" as="geometry" />
@@ -158,13 +158,6 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-15" target="q8t8FOueB4Cw9T-AZ4NH-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0.99;entryX=0;entryY=0.01;rounded=0;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-11" target="q8t8FOueB4Cw9T-AZ4NH-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1546" y="367" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-17" target="q8t8FOueB4Cw9T-AZ4NH-18">
