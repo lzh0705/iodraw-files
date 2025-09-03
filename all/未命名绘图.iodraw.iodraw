@@ -374,7 +374,7 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-11" value="LST (DEM地形校正)" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;" parent="q7U4kgEC2zEvp_Ldrqo7-20" vertex="1">
           <mxGeometry y="63.809590973201686" width="300" height="64.98784901605212" as="geometry" />
         </mxCell>
-        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-37" value="LST—NDVI法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q7U4kgEC2zEvp_Ldrqo7-21">
+        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-37" value="LST—NDVI法" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=30;" vertex="1" parent="q7U4kgEC2zEvp_Ldrqo7-21">
           <mxGeometry x="104" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-24" value="" style="group" vertex="1" connectable="0" parent="1">
