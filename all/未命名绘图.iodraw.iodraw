@@ -22,9 +22,6 @@
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-11" target="q8t8FOueB4Cw9T-AZ4NH-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-11" target="q8t8FOueB4Cw9T-AZ4NH-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-11" value="LST (DEM地形校正)" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1706.5" y="294" width="195" height="49" as="geometry" />
         </mxCell>
