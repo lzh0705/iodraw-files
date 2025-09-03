@@ -379,10 +379,10 @@
           <mxGeometry x="834.5" y="-1090" width="564" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-17" value="" style="group;fontSize=30;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="260" y="-970" width="340" height="146.9000000000001" as="geometry" />
+          <mxGeometry x="276" y="-963.82" width="360" height="146.9000000000001" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=30;" vertex="1" parent="q7U4kgEC2zEvp_Ldrqo7-17">
-          <mxGeometry x="-57.5" y="-83.1" width="397.5" height="230" as="geometry" />
+          <mxGeometry x="-57.5" y="-110" width="417.5" height="256.9" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-12" value="NDVI" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="q7U4kgEC2zEvp_Ldrqo7-17" vertex="1">
           <mxGeometry width="300" height="63.809590973201686" as="geometry" />
