@@ -56,9 +56,6 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-25" value="计算冷热像元温度差dT" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="293" y="-13" width="222" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-26" value="NDVI数据" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="570" y="-112" width="96" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-27" value="计算△Ts" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="448" y="159" width="122" height="49" as="geometry" />
         </mxCell>
@@ -154,11 +151,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.75;entryY=0;rounded=0;" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-26" target="q8t8FOueB4Cw9T-AZ4NH-27" edge="1">
+        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.75;entryY=0;rounded=0;" parent="1" target="q8t8FOueB4Cw9T-AZ4NH-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="665" y="61" />
             </Array>
+            <mxPoint x="618" y="-63" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-27" target="q8t8FOueB4Cw9T-AZ4NH-28" edge="1">
@@ -431,7 +429,7 @@
         <mxCell id="tQ6DSqZaiMBhaWcZ46tv-10" value="蒸散发数据反演" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fillColor=#8f8f8f;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="256" y="-246" width="564" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tQ6DSqZaiMBhaWcZ46tv-11" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="tQ6DSqZaiMBhaWcZ46tv-11" value="NDVI数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="525" y="-127" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
