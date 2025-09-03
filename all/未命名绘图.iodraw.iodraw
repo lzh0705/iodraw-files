@@ -431,6 +431,9 @@
         <mxCell id="tQ6DSqZaiMBhaWcZ46tv-10" value="蒸散发数据反演" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fillColor=#8f8f8f;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="256" y="-246" width="564" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tQ6DSqZaiMBhaWcZ46tv-11" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="525" y="-127" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
