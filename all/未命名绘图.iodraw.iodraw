@@ -471,7 +471,7 @@
             <mxPoint x="578.25" y="350.9527503526093" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lqGZKCdhJQUJocc40LHr-41" value="模型模拟蒸散发数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;" vertex="1" parent="lqGZKCdhJQUJocc40LHr-38">
+        <mxCell id="lqGZKCdhJQUJocc40LHr-41" value="模型模拟RZSM数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;" vertex="1" parent="lqGZKCdhJQUJocc40LHr-38">
           <mxGeometry y="63.809590973201686" width="300" height="64.98784901605212" as="geometry" />
         </mxCell>
       </root>
