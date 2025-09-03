@@ -19,9 +19,6 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-9" value="2a. 实际蒸散发计算 (SSEBop)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="186.5" y="780" width="743" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-11" target="q8t8FOueB4Cw9T-AZ4NH-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-12" value="NDVI" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="221.5" y="-929.5" width="200" height="49" as="geometry" />
         </mxCell>
