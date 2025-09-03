@@ -425,8 +425,8 @@
             <mxPoint x="2120" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1476" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-9" value="灌溉区域提取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1476" y="190" width="564" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
