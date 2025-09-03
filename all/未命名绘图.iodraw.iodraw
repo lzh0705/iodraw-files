@@ -81,13 +81,13 @@
           <mxGeometry x="1709" y="48.5" width="300" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-36" value="建立线性关系" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1526" y="174.5" width="250" height="63" as="geometry" />
+          <mxGeometry x="1535" y="190" width="250" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-37" value="选取最稳健的线性关系" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1521" y="267" width="300" height="63" as="geometry" />
+          <mxGeometry x="1530" y="282.5" width="300" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-38" value="进行根区土壤水分数据反演 (降采样)" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1521" y="368" width="300" height="63" as="geometry" />
+          <mxGeometry x="1530" y="383.5" width="300" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-39" value="实际蒸散发数据" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="248" y="1638" width="142" height="49" as="geometry" />
@@ -408,6 +408,12 @@
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-17" value="根区土壤含水量反演" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fillColor=#8f8f8f;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1319" y="-230" width="564" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lqGZKCdhJQUJocc40LHr-18" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="210" as="sourcePoint" />
+            <mxPoint x="1280" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
