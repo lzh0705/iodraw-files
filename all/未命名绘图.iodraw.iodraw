@@ -47,13 +47,13 @@
           <mxGeometry x="537" y="-660" width="139" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-18" value="XGBoost模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1195" y="-716" width="151" height="49" as="geometry" />
+          <mxGeometry x="887.5" y="-660" width="151" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-19" value="逐年灌溉面积提取" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1450" y="-860" width="188" height="49" as="geometry" />
+          <mxGeometry x="1130" y="-669" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-20" value="精度评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1585" y="-700" width="124" height="49" as="geometry" />
+          <mxGeometry x="1457" y="-660" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-21" value="DEM" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="254.5" y="1370" width="90" height="49" as="geometry" />
