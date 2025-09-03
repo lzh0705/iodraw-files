@@ -72,10 +72,10 @@
           <mxGeometry x="1270" y="-54" width="220" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-33" value="参考蒸散发数据" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=30;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1562" y="-54" width="220" height="63" as="geometry" />
+          <mxGeometry x="1550" y="-54" width="220" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-34" value="蒸散发数据与参考蒸散发之比" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1411" y="52" width="252" height="66" as="geometry" />
+          <mxGeometry x="1411" y="52" width="252" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-35" value="已有根区土壤水分数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1724" y="61" width="220" height="49" as="geometry" />
