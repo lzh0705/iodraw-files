@@ -28,6 +28,11 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-15" value="选取深度学习训练样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1042" y="-567" width="260" height="63" as="geometry" />
         </mxCell>
+        <mxCell id="tQ6DSqZaiMBhaWcZ46tv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1443.5" y="-800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-16" value="划分训练与验证样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1320" y="-568.5" width="247" height="66" as="geometry" />
         </mxCell>
@@ -427,9 +432,6 @@
             <mxPoint x="1350" y="-420" as="sourcePoint" />
             <mxPoint x="1400" y="-470" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="tQ6DSqZaiMBhaWcZ46tv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.465;entryY=1.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-16" target="q8t8FOueB4Cw9T-AZ4NH-18">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
