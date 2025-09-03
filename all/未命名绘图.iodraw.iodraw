@@ -36,7 +36,7 @@
             <mxPoint x="1350" y="-872.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-17" value="LST-NDVI法" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-17" value="多源数据融合" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="-904" width="300" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-20" value="精度评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
