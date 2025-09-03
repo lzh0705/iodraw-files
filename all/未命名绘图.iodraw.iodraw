@@ -434,6 +434,9 @@
             <mxPoint x="1082" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lqGZKCdhJQUJocc40LHr-17" value="根区土壤含水量反演" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fillColor=#8f8f8f;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1398.5" y="-230" width="564" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
