@@ -512,6 +512,9 @@
         <mxCell id="lqGZKCdhJQUJocc40LHr-61" value="经济规模" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;" vertex="1" parent="lqGZKCdhJQUJocc40LHr-58">
           <mxGeometry y="44.53291501306955" width="251.39000000000001" height="45.35522502141548" as="geometry" />
         </mxCell>
+        <mxCell id="lqGZKCdhJQUJocc40LHr-64" value="灌溉用水量" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="285.75" y="1469.99667419537" width="251.39000000000001" height="44.532915013069534" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
