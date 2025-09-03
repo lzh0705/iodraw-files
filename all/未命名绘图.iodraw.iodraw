@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-14" value="初步提取灌溉区域" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=30;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="839" y="-605.5" width="260" height="140" as="geometry" />
+          <mxGeometry x="760" y="-605.5" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-15" target="q8t8FOueB4Cw9T-AZ4NH-16">
           <mxGeometry relative="1" as="geometry" />
