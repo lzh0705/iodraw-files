@@ -37,7 +37,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-16" value="划分训练与验证样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1320" y="-568.5" width="247" height="66" as="geometry" />
+          <mxGeometry x="1342" y="-568.5" width="247" height="66" as="geometry" />
         </mxCell>
         <mxCell id="tQ6DSqZaiMBhaWcZ46tv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-17">
           <mxGeometry relative="1" as="geometry">
