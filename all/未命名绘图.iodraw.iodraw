@@ -78,7 +78,7 @@
           <mxGeometry x="1290" y="54" width="300" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-35" value="已有根区土壤水分数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1709" y="48.5" width="300" height="63" as="geometry" />
+          <mxGeometry x="1700" y="54" width="300" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-36" value="建立线性关系" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1535" y="190" width="250" height="63" as="geometry" />
