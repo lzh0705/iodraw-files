@@ -52,10 +52,10 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-18" value="XGBoost模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1836.5" y="564" width="151" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-19" value="逐年灌溉面积提取" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-19" value="逐年灌溉面积提取" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1817.5" y="735" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-20" value="精度评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-20" value="精度评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1849.5" y="843" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-21" value="DEM" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
