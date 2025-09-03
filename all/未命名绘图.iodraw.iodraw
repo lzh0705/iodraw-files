@@ -419,8 +419,8 @@
             <mxPoint x="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lqGZKCdhJQUJocc40LHr-4" value="NDVI数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="515" y="-110.5" width="135" height="80" as="geometry" />
+        <mxCell id="lqGZKCdhJQUJocc40LHr-4" value="净辐射Rn" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="121" y="-124.5" width="135" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
