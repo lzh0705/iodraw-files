@@ -26,16 +26,16 @@
           <mxGeometry x="1919" y="294" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-13" value="MNDWI" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1548" y="392" width="110" height="49" as="geometry" />
+          <mxGeometry x="1448" y="294" width="110" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-14" value="MNDWI &gt; 0 初步提取灌溉区域" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1506" y="491" width="194" height="194" as="geometry" />
+          <mxGeometry x="1406" y="393" width="194" height="194" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-15" value="选取深度学习训练样本" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1493" y="735" width="220" height="49" as="geometry" />
+          <mxGeometry x="1393" y="637" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-16" value="计算样本数量 (研究区像素 -&gt; 8:2划分)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="834" width="247" height="66" as="geometry" />
+          <mxGeometry x="1380" y="736" width="247" height="66" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-17" value="LST-NDVI法" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1788" y="392" width="139" height="49" as="geometry" />
