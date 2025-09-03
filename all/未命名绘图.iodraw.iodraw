@@ -463,7 +463,7 @@
         <mxCell id="lqGZKCdhJQUJocc40LHr-67" value="灌溉用水量时空演变分析" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fillColor=#8f8f8f;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="847" y="1330" width="564" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lqGZKCdhJQUJocc40LHr-68" value="灌溉用水量时间动态演变" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="lqGZKCdhJQUJocc40LHr-68" value="灌溉用水量空间动态演变" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="938" y="1731.99" width="400" height="63" as="geometry" />
         </mxCell>
       </root>
