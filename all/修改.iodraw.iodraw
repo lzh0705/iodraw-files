@@ -231,22 +231,10 @@
             <mxPoint x="1487" y="21" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lqGZKCdhJQUJocc40LHr-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=40;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1227" y="387" as="sourcePoint" />
-            <mxPoint x="1227" y="-413" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=40;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1226" y="-413" as="sourcePoint" />
             <mxPoint x="2148" y="-413" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lqGZKCdhJQUJocc40LHr-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=40;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1226" y="387" as="sourcePoint" />
-            <mxPoint x="2148" y="387" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-27" value="" style="group" parent="1" vertex="1" connectable="0">
