@@ -11,7 +11,7 @@
           <mxGeometry x="380" y="-622" width="290" height="170" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-15" value="选取深度学习训练样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="860" y="-576" width="260" height="70.5" as="geometry" />
+          <mxGeometry x="860" y="-576" width="260" height="78" as="geometry" />
         </mxCell>
         <mxCell id="tQ6DSqZaiMBhaWcZ46tv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=35;" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -22,7 +22,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-16" value="划分训练与验证样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1319" y="-568.5" width="247" height="66" as="geometry" />
+          <mxGeometry x="1319" y="-573" width="247" height="70.5" as="geometry" />
         </mxCell>
         <mxCell id="tQ6DSqZaiMBhaWcZ46tv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=35;" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-17" edge="1">
           <mxGeometry relative="1" as="geometry">
