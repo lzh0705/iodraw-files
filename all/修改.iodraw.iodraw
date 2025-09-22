@@ -20,7 +20,7 @@
         </mxCell>
         <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1007.6666870117188" y="-869" as="targetPoint" />
+            <mxPoint x="1016" y="-869" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-17" value="多源数据融合" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;" parent="1" vertex="1">
