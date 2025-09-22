@@ -39,7 +39,7 @@
           <mxGeometry x="270" y="-221" width="222" height="87" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-27" value="△Ts" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="573.5" y="-221" width="122" height="63" as="geometry" />
+          <mxGeometry x="573.5" y="-221" width="122" height="87" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-28" value="蒸散发分数ETf" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="509.5" y="-7" width="250" height="63" as="geometry" />
