@@ -175,9 +175,6 @@
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-25" value="梯度提升决策树" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1;fillColor=#8F8F8F;" parent="q7U4kgEC2zEvp_Ldrqo7-26" vertex="1">
           <mxGeometry width="260" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-38" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontSize=35;" parent="1" vertex="1">
-          <mxGeometry x="634.5" y="-566" width="100" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="tQ6DSqZaiMBhaWcZ46tv-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=35;" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-15" target="q8t8FOueB4Cw9T-AZ4NH-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1350" y="-420" as="sourcePoint" />
@@ -484,6 +481,9 @@
             <mxPoint x="1115.83" y="1780" as="sourcePoint" />
             <mxPoint x="1115.83" y="1900" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.386;entryY=0.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-14" target="q8t8FOueB4Cw9T-AZ4NH-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
