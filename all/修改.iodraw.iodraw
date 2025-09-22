@@ -18,6 +18,11 @@
             <mxPoint x="1566" y="-536.5714285714287" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1122.6666843580165" y="-871.2608695652174" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-17" value="多源数据融合" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="382.33000000000004" y="-903" width="300" height="63" as="geometry" />
         </mxCell>
@@ -159,7 +164,7 @@
           <mxGeometry x="1127" y="-937" width="260" height="126" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-18" value="XGBoost模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" parent="q7U4kgEC2zEvp_Ldrqo7-26" vertex="1">
-          <mxGeometry y="63" width="260" height="63" as="geometry" />
+          <mxGeometry y="72" width="260" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-25" value="梯度提升决策树" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1;fillColor=#8F8F8F;" parent="q7U4kgEC2zEvp_Ldrqo7-26" vertex="1">
           <mxGeometry width="260" height="63" as="geometry" />
