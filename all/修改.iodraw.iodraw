@@ -11,7 +11,7 @@
           <mxGeometry x="380" y="-622" width="290" height="170" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-15" value="选取深度学习训练样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="750.33" y="-598" width="260" height="87" as="geometry" />
+          <mxGeometry x="750.83" y="-580.5" width="260" height="87" as="geometry" />
         </mxCell>
         <mxCell id="tQ6DSqZaiMBhaWcZ46tv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=35;exitX=0.974;exitY=0.546;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Q5Czh7uGDQpQ5lEEhXVQ-2" target="q8t8FOueB4Cw9T-AZ4NH-20" edge="1">
           <mxGeometry relative="1" as="geometry">
