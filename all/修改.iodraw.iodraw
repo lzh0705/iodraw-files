@@ -18,11 +18,6 @@
             <mxPoint x="1566" y="-536.5714285714287" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1122.6666843580165" y="-871.2608695652174" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-17" value="多源数据融合" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="382.33000000000004" y="-903" width="300" height="63" as="geometry" />
         </mxCell>
