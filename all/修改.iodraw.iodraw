@@ -161,13 +161,13 @@
           <mxGeometry width="260" height="73.5" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-26" value="" style="group;fontSize=35;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1059" y="-952" width="260" height="160" as="geometry" />
+          <mxGeometry x="1059" y="-952" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-18" value="XGBoost模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" parent="q7U4kgEC2zEvp_Ldrqo7-26" vertex="1">
-          <mxGeometry y="80" width="320" height="80" as="geometry" />
+          <mxGeometry y="80" width="393.84615384615387" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-25" value="梯度提升决策树" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1;fillColor=#8F8F8F;" parent="q7U4kgEC2zEvp_Ldrqo7-26" vertex="1">
-          <mxGeometry width="320" height="80" as="geometry" />
+          <mxGeometry width="393.84615384615387" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.844;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="q7U4kgEC2zEvp_Ldrqo7-26" source="q8t8FOueB4Cw9T-AZ4NH-18" target="q8t8FOueB4Cw9T-AZ4NH-18">
           <mxGeometry relative="1" as="geometry" />
