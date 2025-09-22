@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="WDHhsA6tqdg396hcrXkd">
-    <mxGraphModel dx="1203" dy="1457" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3650" dy="3332" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,7 +207,7 @@
         <mxCell id="lqGZKCdhJQUJocc40LHr-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=40;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="251" y="-413" as="sourcePoint" />
-            <mxPoint x="1147" y="-413" as="targetPoint" />
+            <mxPoint x="1098" y="-413" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=40;" parent="1" edge="1">
@@ -449,6 +449,79 @@
         </mxCell>
         <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-10" value="逐年灌溉面积提取" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1462" y="-754" width="280" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=40;fontColor=default;fontStyle=1" edge="1" parent="1" source="Q5Czh7uGDQpQ5lEEhXVQ-14" target="Q5Czh7uGDQpQ5lEEhXVQ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-14" value="空气密度" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="308.5" y="10" width="165" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-15" value="冷热像元温度差dT" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="-211" width="222" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-16" value="△Ts" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="583.5" y="-211" width="122" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-17" value="蒸散发分数ETf" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="519.5" y="3" width="250" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-18" value="Penman-Monteith模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="787" y="-139.5" width="300" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=40;fontColor=default;fontStyle=1" edge="1" parent="1" source="Q5Czh7uGDQpQ5lEEhXVQ-20" target="Q5Czh7uGDQpQ5lEEhXVQ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-20" value="参考蒸散发数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="812" y="3" width="250" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-21" value="实际蒸散发数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="673" y="117" width="250" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;fontSize=40;fontStyle=1" edge="1" parent="1" source="Q5Czh7uGDQpQ5lEEhXVQ-16" target="Q5Czh7uGDQpQ5lEEhXVQ-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;fontSize=40;fontStyle=1" edge="1" parent="1" source="Q5Czh7uGDQpQ5lEEhXVQ-18" target="Q5Czh7uGDQpQ5lEEhXVQ-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-24" value="蒸散发数据反演" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fillColor=#8f8f8f;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-353" width="564" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-25" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=40;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="Q5Czh7uGDQpQ5lEEhXVQ-15" target="Q5Czh7uGDQpQ5lEEhXVQ-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="512" y="-161" as="sourcePoint" />
+            <mxPoint x="562" y="-211" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.498;entryY=0.122;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=40;fontColor=default;fontStyle=1" edge="1" parent="1" source="Q5Czh7uGDQpQ5lEEhXVQ-17" target="Q5Czh7uGDQpQ5lEEhXVQ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=40;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="244" as="sourcePoint" />
+            <mxPoint x="260" y="-404" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=40;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1109.33" y="247" as="sourcePoint" />
+            <mxPoint x="1109.33" y="-402" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=40;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="261" y="-403" as="sourcePoint" />
+            <mxPoint x="1108" y="-403" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=40;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259" y="245" as="sourcePoint" />
+            <mxPoint x="1109" y="247" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
