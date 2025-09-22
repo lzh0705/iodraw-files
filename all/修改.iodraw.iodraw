@@ -161,7 +161,7 @@
           <mxGeometry width="260" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-26" value="" style="group;fontSize=35;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1306" y="-935.5" width="260" height="126" as="geometry" />
+          <mxGeometry x="1306" y="-942" width="260" height="126" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-18" value="XGBoost模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" parent="q7U4kgEC2zEvp_Ldrqo7-26" vertex="1">
           <mxGeometry y="63" width="260" height="63" as="geometry" />
