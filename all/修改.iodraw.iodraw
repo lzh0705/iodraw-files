@@ -11,7 +11,7 @@
           <mxGeometry x="380" y="-622" width="290" height="170" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-15" value="选取深度学习训练样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="860" y="-576" width="260" height="78" as="geometry" />
+          <mxGeometry x="804" y="-576" width="260" height="78" as="geometry" />
         </mxCell>
         <mxCell id="tQ6DSqZaiMBhaWcZ46tv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=35;" parent="1" target="q8t8FOueB4Cw9T-AZ4NH-20" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -161,7 +161,7 @@
           <mxGeometry width="260" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-26" value="" style="group;fontSize=35;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1306" y="-942" width="260" height="126" as="geometry" />
+          <mxGeometry x="1176" y="-941" width="260" height="126" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-18" value="XGBoost模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" parent="q7U4kgEC2zEvp_Ldrqo7-26" vertex="1">
           <mxGeometry y="63" width="260" height="63" as="geometry" />
@@ -480,7 +480,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-2" value="划分训练与验证样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1321" y="-576" width="260" height="78" as="geometry" />
+          <mxGeometry x="1191" y="-576" width="260" height="78" as="geometry" />
         </mxCell>
         <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.556;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q5Czh7uGDQpQ5lEEhXVQ-2" target="q8t8FOueB4Cw9T-AZ4NH-18">
           <mxGeometry relative="1" as="geometry" />
