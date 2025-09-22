@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="WDHhsA6tqdg396hcrXkd">
-    <mxGraphModel dx="1719" dy="1852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2709" dy="2611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,30 +174,6 @@
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-25" value="梯度提升决策树" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1;fillColor=#8F8F8F;" parent="q7U4kgEC2zEvp_Ldrqo7-26" vertex="1">
           <mxGeometry width="260" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-29" value="" style="group;fontSize=35;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="190" y="-680" width="417.5" height="256.9" as="geometry" />
-        </mxCell>
-        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=35;" parent="q7U4kgEC2zEvp_Ldrqo7-29" vertex="1">
-          <mxGeometry width="417.5" height="256.9" as="geometry" />
-        </mxCell>
-        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-31" value="" style="group;fontSize=35;" parent="q7U4kgEC2zEvp_Ldrqo7-29" vertex="1" connectable="0">
-          <mxGeometry x="55" y="96.17999999999995" width="360" height="146.9000000000001" as="geometry" />
-        </mxCell>
-        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-32" value="" style="group;fontSize=35;" parent="q7U4kgEC2zEvp_Ldrqo7-31" vertex="1" connectable="0">
-          <mxGeometry width="300" height="128.7974399892538" as="geometry" />
-        </mxCell>
-        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-33" value="MNDWI" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" parent="q7U4kgEC2zEvp_Ldrqo7-32" vertex="1">
-          <mxGeometry width="300" height="63.809590973201686" as="geometry" />
-        </mxCell>
-        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=35;" parent="q7U4kgEC2zEvp_Ldrqo7-32" source="q7U4kgEC2zEvp_Ldrqo7-33" target="q7U4kgEC2zEvp_Ldrqo7-35" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="143.25" y="64.46070924843845" as="sourcePoint" />
-            <mxPoint x="578.25" y="350.9527503526093" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-35" value="NDVI" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1;" parent="q7U4kgEC2zEvp_Ldrqo7-32" vertex="1">
-          <mxGeometry y="63.809590973201686" width="300" height="64.98784901605212" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-38" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontSize=35;" parent="1" vertex="1">
           <mxGeometry x="634.5" y="-566" width="100" height="70" as="geometry" />
