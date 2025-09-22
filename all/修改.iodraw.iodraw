@@ -492,7 +492,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-2" value="划分训练与验证样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1107" y="-576" width="260" height="78" as="geometry" />
+          <mxGeometry x="1108" y="-580.5" width="260" height="87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
