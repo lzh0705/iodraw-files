@@ -99,7 +99,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-51" value="灌溉用水量时间动态演变" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1151.75" y="1154" width="400" height="63" as="geometry" />
+          <mxGeometry x="1151.75" y="1154" width="400" height="87" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-52" value="分析两国制度转变" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1686.25" y="1233.0099999999998" width="250" height="63" as="geometry" />
