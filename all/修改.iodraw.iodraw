@@ -390,7 +390,7 @@
         <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-10" value="逐年灌溉面积提取" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1462" y="-754" width="280" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=40;" edge="1" parent="1">
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=5;fontSize=40;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1233" y="236" as="sourcePoint" />
             <mxPoint x="1233" y="-412" as="targetPoint" />
