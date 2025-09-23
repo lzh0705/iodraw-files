@@ -204,7 +204,7 @@
             <mxPoint x="1176" y="-410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lqGZKCdhJQUJocc40LHr-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=40;" parent="1" edge="1">
+        <mxCell id="lqGZKCdhJQUJocc40LHr-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=5;fontSize=40;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="327" y="238" as="sourcePoint" />
             <mxPoint x="1177" y="240" as="targetPoint" />
@@ -270,7 +270,7 @@
         <mxCell id="lqGZKCdhJQUJocc40LHr-45" value="灌溉用水量数据计算" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fillColor=#8f8f8f;fontSize=40;" parent="1" vertex="1">
           <mxGeometry x="898.1600000000001" y="318" width="564" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lqGZKCdhJQUJocc40LHr-46" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=40;" parent="1" edge="1">
+        <mxCell id="lqGZKCdhJQUJocc40LHr-46" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=5;fontSize=40;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="322.83" y="847" as="sourcePoint" />
             <mxPoint x="322.83" y="287" as="targetPoint" />
