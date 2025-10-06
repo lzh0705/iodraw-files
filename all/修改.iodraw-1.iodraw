@@ -8,9 +8,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-14" value="初步提取灌溉区域" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=40;fontStyle=1;fillColor=#F4D4D2;" parent="1" vertex="1">
-          <mxGeometry x="406" y="-663.5" width="290" height="170" as="geometry" />
+          <mxGeometry x="365" y="-674" width="331" height="180.5" as="geometry" />
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-15" value="选取深度学习训练样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-15" value="选取深度学习训练样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;fillColor=#F4D4D2;" parent="1" vertex="1">
           <mxGeometry x="757" y="-622" width="280" height="87" as="geometry" />
         </mxCell>
         <mxCell id="tQ6DSqZaiMBhaWcZ46tv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=40;exitX=0.974;exitY=0.546;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Q5Czh7uGDQpQ5lEEhXVQ-2" target="q8t8FOueB4Cw9T-AZ4NH-20" edge="1">
@@ -381,7 +381,7 @@
             <mxPoint x="1319" y="-536.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-2" value="划分训练与验证样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-2" value="划分训练与验证样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;fillColor=#F4D4D2;" parent="1" vertex="1">
           <mxGeometry x="1099" y="-622" width="280" height="87" as="geometry" />
         </mxCell>
         <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=40;" parent="1" source="Q5Czh7uGDQpQ5lEEhXVQ-10" target="q8t8FOueB4Cw9T-AZ4NH-20" edge="1">
