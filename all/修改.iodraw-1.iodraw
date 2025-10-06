@@ -343,7 +343,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-68" value="灌溉用水量空间动态演变" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1135" y="1295.5099999999998" width="400" height="87" as="geometry" />
+          <mxGeometry x="1062.16" y="1296.9999999999998" width="400" height="87" as="geometry" />
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-71" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontSize=40;" parent="1" vertex="1">
           <mxGeometry x="955.75" y="1233.0099999999998" width="100" height="70" as="geometry" />
