@@ -7,7 +7,7 @@
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=40;" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-14" target="q8t8FOueB4Cw9T-AZ4NH-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-14" value="初步提取灌溉区域" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=40;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-14" value="初步提取灌溉区域" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=40;fontStyle=1;fillColor=#F4D4D2;" parent="1" vertex="1">
           <mxGeometry x="406" y="-663.5" width="290" height="170" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-15" value="选取深度学习训练样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" parent="1" vertex="1">
@@ -387,7 +387,7 @@
         <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=40;" parent="1" source="Q5Czh7uGDQpQ5lEEhXVQ-10" target="q8t8FOueB4Cw9T-AZ4NH-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-10" value="逐年灌溉面积提取" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-10" value="逐年灌溉面积提取" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;fillColor=#F4D4D2;" parent="1" vertex="1">
           <mxGeometry x="1462" y="-754" width="280" height="87" as="geometry" />
         </mxCell>
         <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=5;fontSize=40;" parent="1" edge="1">
