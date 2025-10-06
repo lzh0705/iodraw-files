@@ -210,7 +210,7 @@
             <mxPoint x="1177" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lqGZKCdhJQUJocc40LHr-17" value="根区土壤含水量反演" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fillColor=#8f8f8f;fontSize=40;" parent="1" vertex="1">
+        <mxCell id="lqGZKCdhJQUJocc40LHr-17" value="根区土壤含水量反演" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fillColor=#d8e7ca;fontSize=40;" parent="1" vertex="1">
           <mxGeometry x="1405" y="-363" width="564" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-27" value="" style="group;fontSize=40;" parent="1" vertex="1" connectable="0">
