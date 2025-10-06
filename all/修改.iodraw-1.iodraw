@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-14" value="初步提取灌溉区域" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=40;fontStyle=1;fillColor=#F4D4D2;" parent="1" vertex="1">
-          <mxGeometry x="365" y="-674" width="331" height="180.5" as="geometry" />
+          <mxGeometry x="351.83" y="-668.75" width="331" height="180.5" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-15" value="选取深度学习训练样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;fillColor=#F4D4D2;" parent="1" vertex="1">
           <mxGeometry x="757" y="-622" width="280" height="87" as="geometry" />
