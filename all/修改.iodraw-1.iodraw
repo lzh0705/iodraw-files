@@ -154,7 +154,7 @@
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-26" value="" style="group;fontSize=40;fillColor=#f4d4d2;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1019" y="-949" width="320" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-18" value="XGBoost模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" parent="q7U4kgEC2zEvp_Ldrqo7-26" vertex="1">
+        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-18" value="XGBoost模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;fillColor=#f4d4d2;" parent="q7U4kgEC2zEvp_Ldrqo7-26" vertex="1">
           <mxGeometry y="80" width="393.84615384615387" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q7U4kgEC2zEvp_Ldrqo7-25" value="梯度提升决策树" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;fillColor=#d6bebd;gradientColor=none;" parent="q7U4kgEC2zEvp_Ldrqo7-26" vertex="1">
