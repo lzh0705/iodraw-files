@@ -213,7 +213,7 @@
         <mxCell id="lqGZKCdhJQUJocc40LHr-17" value="根区土壤含水量反演" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fillColor=#d8e7ca;fontSize=40;" parent="1" vertex="1">
           <mxGeometry x="1405" y="-363" width="564" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lqGZKCdhJQUJocc40LHr-27" value="" style="group;fontSize=40;fillColor=#C3D6EB;" parent="1" vertex="1" connectable="0">
+        <mxCell id="lqGZKCdhJQUJocc40LHr-27" value="" style="group;fontSize=40;fillColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="351.83" y="394.5" width="417.5" height="280" as="geometry" />
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=40;" parent="lqGZKCdhJQUJocc40LHr-27" vertex="1">
@@ -225,7 +225,7 @@
         <mxCell id="lqGZKCdhJQUJocc40LHr-30" value="" style="group;fontSize=40;" parent="lqGZKCdhJQUJocc40LHr-29" vertex="1" connectable="0">
           <mxGeometry width="300" height="140.37868118719763" as="geometry" />
         </mxCell>
-        <mxCell id="lqGZKCdhJQUJocc40LHr-31" value="实际蒸散发数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" parent="lqGZKCdhJQUJocc40LHr-30" vertex="1">
+        <mxCell id="lqGZKCdhJQUJocc40LHr-31" value="实际蒸散发数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;fillColor=#C3D6EB;" parent="lqGZKCdhJQUJocc40LHr-30" vertex="1">
           <mxGeometry width="300" height="69.547238117931" as="geometry" />
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=40;" parent="lqGZKCdhJQUJocc40LHr-30" source="lqGZKCdhJQUJocc40LHr-31" target="lqGZKCdhJQUJocc40LHr-33" edge="1">
