@@ -23,7 +23,7 @@
             <mxPoint x="1016" y="-869" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-17" value="多源数据融合" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;strokeColor=none;fillColor=#472b2a;" parent="1" vertex="1">
+        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-17" value="多源数据融合" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;strokeColor=none;fillColor=#f4d4d2;" parent="1" vertex="1">
           <mxGeometry x="415.83" y="-912.5" width="320" height="87" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-20" value="精度评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" parent="1" vertex="1">
