@@ -252,7 +252,7 @@
         <mxCell id="lqGZKCdhJQUJocc40LHr-38" value="" style="group;fontSize=40;" parent="lqGZKCdhJQUJocc40LHr-37" vertex="1" connectable="0">
           <mxGeometry width="300" height="140.37868118719763" as="geometry" />
         </mxCell>
-        <mxCell id="lqGZKCdhJQUJocc40LHr-39" value="反演RZSM数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" parent="lqGZKCdhJQUJocc40LHr-38" vertex="1">
+        <mxCell id="lqGZKCdhJQUJocc40LHr-39" value="反演RZSM数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;fillColor=#E5EFEA;" parent="lqGZKCdhJQUJocc40LHr-38" vertex="1">
           <mxGeometry width="300" height="69.54723811793099" as="geometry" />
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=40;" parent="lqGZKCdhJQUJocc40LHr-38" source="lqGZKCdhJQUJocc40LHr-39" target="lqGZKCdhJQUJocc40LHr-41" edge="1">
