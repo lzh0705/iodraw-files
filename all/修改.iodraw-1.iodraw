@@ -157,7 +157,7 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-18" value="XGBoost模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" parent="q7U4kgEC2zEvp_Ldrqo7-26" vertex="1">
           <mxGeometry y="80" width="393.84615384615387" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-25" value="梯度提升决策树" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;fillColor=#F4D4D2;strokeColor=default;gradientColor=none;" parent="q7U4kgEC2zEvp_Ldrqo7-26" vertex="1">
+        <mxCell id="q7U4kgEC2zEvp_Ldrqo7-25" value="梯度提升决策树" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;fillColor=#d6bebd;" parent="q7U4kgEC2zEvp_Ldrqo7-26" vertex="1">
           <mxGeometry width="393.84615384615387" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q5Czh7uGDQpQ5lEEhXVQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.844;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=40;" parent="q7U4kgEC2zEvp_Ldrqo7-26" source="q8t8FOueB4Cw9T-AZ4NH-18" target="q8t8FOueB4Cw9T-AZ4NH-18" edge="1">
