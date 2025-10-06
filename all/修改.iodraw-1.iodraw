@@ -261,7 +261,7 @@
             <mxPoint x="578.25" y="382.5098096486205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lqGZKCdhJQUJocc40LHr-41" value="模拟RZSM数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;" parent="lqGZKCdhJQUJocc40LHr-38" vertex="1">
+        <mxCell id="lqGZKCdhJQUJocc40LHr-41" value="模拟RZSM数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;fillColor=#E5EFEA;" parent="lqGZKCdhJQUJocc40LHr-38" vertex="1">
           <mxGeometry y="69.54723811793099" width="300" height="70.83144306926663" as="geometry" />
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-42" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=west;fontSize=40;" parent="1" vertex="1">
