@@ -35,7 +35,7 @@
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-22" value="空气密度" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="376.5" y="3" width="165" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-25" value="冷热像元温度差dT" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="q8t8FOueB4Cw9T-AZ4NH-25" value="冷热像元温度差dT" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;fillColor=#C3D6EB;" parent="1" vertex="1">
           <mxGeometry x="348" y="-218" width="222" height="87" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-27" value="△Ts" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" parent="1" vertex="1">
