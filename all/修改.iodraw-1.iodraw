@@ -324,7 +324,7 @@
         <mxCell id="lqGZKCdhJQUJocc40LHr-62" value="制度转变" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;container=0;" parent="lqGZKCdhJQUJocc40LHr-65" vertex="1">
           <mxGeometry x="44.53" y="174.64477497858454" width="251.39000000000001" height="45.35522502141548" as="geometry" />
         </mxCell>
-        <mxCell id="lqGZKCdhJQUJocc40LHr-59" value="人口规模" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;container=0;" parent="lqGZKCdhJQUJocc40LHr-65" vertex="1">
+        <mxCell id="lqGZKCdhJQUJocc40LHr-59" value="人口规模" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;container=0;fillColor=#B9BADE;" parent="lqGZKCdhJQUJocc40LHr-65" vertex="1">
           <mxGeometry x="44.53" y="89.88992667406774" width="251.39000000000001" height="44.53291501306955" as="geometry" />
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=40;" parent="lqGZKCdhJQUJocc40LHr-65" source="lqGZKCdhJQUJocc40LHr-59" target="lqGZKCdhJQUJocc40LHr-61" edge="1">
