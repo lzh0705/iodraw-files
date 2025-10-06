@@ -318,7 +318,7 @@
             <mxPoint x="529.084225" y="244.9310325718825" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lqGZKCdhJQUJocc40LHr-56" value="产业结构变化" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;container=0;" parent="lqGZKCdhJQUJocc40LHr-65" vertex="1">
+        <mxCell id="lqGZKCdhJQUJocc40LHr-56" value="产业结构变化" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;container=0;fillColor=#B9BADE;" parent="lqGZKCdhJQUJocc40LHr-65" vertex="1">
           <mxGeometry x="44.53" y="44.532915013069534" width="251.39000000000001" height="45.35522502141547" as="geometry" />
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-62" value="制度转变" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;container=0;" parent="lqGZKCdhJQUJocc40LHr-65" vertex="1">
