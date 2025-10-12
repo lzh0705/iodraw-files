@@ -8,10 +8,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-14" value="初步提取灌溉区域" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=60;fontStyle=1;fillColor=#F4D4D2;fontColor=#3C3C3C;" parent="1" vertex="1">
-          <mxGeometry x="335" y="-698" width="401" height="225" as="geometry" />
+          <mxGeometry x="351.83" y="-668.75" width="331" height="180.5" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-15" value="选取深度学习训练样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=60;fontStyle=1;fillColor=#F4D4D2;fontColor=#3C3C3C;" parent="1" vertex="1">
-          <mxGeometry x="761" y="-655" width="313" height="132.5" as="geometry" />
+          <mxGeometry x="757" y="-622" width="280" height="87" as="geometry" />
         </mxCell>
         <mxCell id="tQ6DSqZaiMBhaWcZ46tv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=60;exitX=0.974;exitY=0.546;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#3C3C3C;" parent="1" source="Q5Czh7uGDQpQ5lEEhXVQ-2" target="q8t8FOueB4Cw9T-AZ4NH-20" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-17" value="多源数据融合" style="whiteSpace=wrap;strokeWidth=2;fontSize=60;fontStyle=1;fillColor=#f4d4d2;gradientColor=none;fontColor=#3C3C3C;" parent="1" vertex="1">
-          <mxGeometry x="387" y="-937.75" width="379" height="137.5" as="geometry" />
+          <mxGeometry x="407" y="-963" width="328.83" height="137.5" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-20" value="精度评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=60;fontStyle=1;fillColor=#F4D4D2;fontColor=#3C3C3C;" parent="1" vertex="1">
           <mxGeometry x="1856.5" y="-754" width="165" height="87" as="geometry" />
