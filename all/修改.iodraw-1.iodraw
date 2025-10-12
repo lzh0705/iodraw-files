@@ -27,7 +27,7 @@
           <mxGeometry x="436" y="-912.5" width="345" height="87" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-20" value="精度评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=50;fontStyle=1;fillColor=#F4D4D2;fontColor=#3C3C3C;" parent="1" vertex="1">
-          <mxGeometry x="1856.5" y="-754" width="200" height="125" as="geometry" />
+          <mxGeometry x="1853.33" y="-783" width="200" height="125" as="geometry" />
         </mxCell>
         <mxCell id="lqGZKCdhJQUJocc40LHr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=40;fontColor=#3C3C3C;fontStyle=1" parent="1" source="q8t8FOueB4Cw9T-AZ4NH-22" target="q8t8FOueB4Cw9T-AZ4NH-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
