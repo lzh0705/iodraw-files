@@ -72,7 +72,7 @@
           <mxGeometry x="1721.5" y="-256" width="300" height="83" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-36" value="建立线性关系" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;fillColor=#E5EFEA;fontColor=#3C3C3C;" parent="1" vertex="1">
-          <mxGeometry x="1531.5" y="-113.5" width="250" height="83" as="geometry" />
+          <mxGeometry x="1531.5" y="-113.5" width="300" height="83" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-37" value="选取最大R²模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1;fillColor=#E5EFEA;fontColor=#3C3C3C;" parent="1" vertex="1">
           <mxGeometry x="1506.5" y="-1.5" width="300" height="83" as="geometry" />
