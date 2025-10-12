@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-17" value="多源数据融合" style="whiteSpace=wrap;strokeWidth=2;fontSize=50;fontStyle=1;fillColor=#f4d4d2;gradientColor=none;fontColor=#3C3C3C;" parent="1" vertex="1">
-          <mxGeometry x="394" y="-912.5" width="341.83" height="87" as="geometry" />
+          <mxGeometry x="394" y="-912.5" width="345" height="87" as="geometry" />
         </mxCell>
         <mxCell id="q8t8FOueB4Cw9T-AZ4NH-20" value="精度评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=50;fontStyle=1;fillColor=#F4D4D2;fontColor=#3C3C3C;" parent="1" vertex="1">
           <mxGeometry x="1856.5" y="-754" width="165" height="87" as="geometry" />
